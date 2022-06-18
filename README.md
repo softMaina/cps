@@ -3,9 +3,13 @@
 Campus Project Starter Template
 
 ## Modules
-Signup
-Signin
-Profile
+
+ - Signup
+   
+ - Signin
+   
+ - Profile
+
 Card
 Product Catalogue
 Chat
