@@ -60,7 +60,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/images/headphones/beat_by_dre.png
-    - assets/images/headphones/cool_headphones.png
+    - assets/images/headphones/cool_headphones.jpg
     - assets/images/headphones/coolgang_headphones.png
     - assets/images/headphones/gamer_headphones.png
     - assets/images/headphones/white_headphones.png
